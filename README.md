@@ -18,7 +18,8 @@ This repository is consists with tableau dashboard for my uncleaned laptop data 
 🔗 **Interactive Tableau Dashboard:**  
 [View on Tableau Public](https://public.tableau.com/app/profile/annisa.wulandari4467/viz/LaptopCleaning/Dashboard3?publish=yes)
 
-![Dashboard Preview] <img width="1499" height="899" alt="Dashboard 3" src="https://github.com/user-attachments/assets/9b374216-28e9-4a31-a4a5-5b9cfeb792b2" />
+![Dashboard Preview] 
+<img width="1499" height="899" alt="Dashboard 3 (1)" src="https://github.com/user-attachments/assets/6979af66-5772-4aeb-8c2a-5f51637c76c5" />
 
 
 ## Key Insights
