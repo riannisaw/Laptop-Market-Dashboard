@@ -6,10 +6,11 @@ This repository is consists with tableau dashboard for my uncleaned laptop data 
 - Features include price, RAM, storage, screen size, resolution, weight, and display attributes
 
 ### Data
-- **Raw**
-- **Cleaned**
+- [**Raw**](https://github.com/riannisaw/Uncleaned-Laptop-Data/blob/main/data/laptop%20Data%20(raw).csv)
+- [**Cleaned**](https://github.com/riannisaw/Uncleaned-Laptop-Data/blob/main/data/laptop_cleaning%20(cleaned).csv)
 
 ### SQL Query
+- [Uncleaned Laptop Data](https://github.com/riannisaw/Uncleaned-Laptop-Data/tree/main)
 
 ### Insights
 
@@ -23,7 +24,7 @@ This repository is consists with tableau dashboard for my uncleaned laptop data 
 
 
 ## Key Insights
--Laptop prices increase most sharply with higher RAM, discrete GPUs (NVIDIA), SSD storage, and premium display features such as IPS panels and touchscreens, highlighting performance and user experience as the primary pricing drivers.
+Laptop prices increase most sharply with higher RAM, discrete GPUs (NVIDIA), SSD storage, and premium display features such as IPS panels and touchscreens, highlighting performance and user experience as the primary pricing drivers.
 
 ## Tools Used
 - SQL (data preparation & aggregation)
